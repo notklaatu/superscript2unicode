@@ -1,6 +1,6 @@
 # Awk script to convert XML superscripts to unicode
 
-Awk script to find instances of
+[G]awk script to find instances of
 
     <superscript>(1)</superscript>
 
@@ -14,6 +14,14 @@ and convert it to its Unicode superscript equivalent:
     $ chmod +x ./superscripter.awk
 
     $ ./superscripter.awk test.xml
+
+
+## Requires
+
+GNU Awk. I haven't tested it with other awks, but I believe I'm using some features specific to GNU's version.
+
+Otherwise, should work as expected on any POSIX system.
+
 
 ## Bugs
 
