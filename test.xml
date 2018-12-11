@@ -1,0 +1,36 @@
+<para>
+  This is an example <superscript>(1)</superscript> but it may not work.
+</para>
+<para>
+  <superscript>(2)</superscript> Second footnote.
+</para>
+<para>
+  <superscript>(3)</superscript> A third footnote.
+</para>
+<para>
+  <superscript>(4)</superscript> A fourth, using the obscure HTML entity.
+</para>
+<para>
+  <superscript>(5)</superscript> Fifth footnote.
+</para>
+<para>
+  <superscript>(6)</superscript> And six, for good measure.
+</para>
+<para>
+  <superscript>(7)</superscript> See the seventh footnote?
+</para>
+<para>
+  <superscript>(8)</superscript> Refer to number eight footnote. 
+</para>
+<para>
+  <superscript>(9)</superscript> Here is the ninth footnote.
+</para>
+<para>
+  <superscript>(10)</superscript> This tenth footnote doesn't get converted.
+</para>
+<para>
+  <superscript>
+    (5)
+  </superscript>
+  Fifth footnote.
+</para>
